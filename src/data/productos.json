@@ -1,28 +1,46 @@
 [
   {
-    "nombre": "Marciano de Fresa",
+    "nombre": "Adoquin de Fresa",
     "descripcion": "Elaborado con fresas seleccionadas, refrescante y con el dulzor exacto.",
     "precio": 2.5,
-    "imagen": "productos/producto-1.svg",
+    "imagen": "productos/producto1.jpeg",
     "etiqueta": "Más vendido",
     "destacado": true
   },
   {
-    "nombre": "Nombre del producto 2",
-    "descripcion": "Máximo 110 caracteres: qué es, de qué está hecho o para qué sirve.",
-    "precio": 8,
-    "imagen": "productos/producto-2.svg"
+    "nombre": "Adoquin de maní",
+    "descripcion": "Cremoso adoquín artesanal preparado con maní tostado molido y leche fresca.",
+    "precio": 2.5,
+    "imagen": "productos/producto2.jpeg"
   },
   {
-    "nombre": "Nombre del producto 3",
-    "descripcion": "Cuenta lo más importante en una sola frase.",
-    "precio": 15,
-    "imagen": "productos/producto-3.svg"
+    "nombre": "Adoquin maracuyá",
+    "descripcion": "Refrescante y tropical, hecho con pulpa natural de maracuyá al punto exacto de acidez.",
+    "precio": 2.5,
+    "imagen": "productos/producto3.jpeg"
   },
   {
-    "nombre": "Nombre del producto 4",
-    "descripcion": "Recuerda: cada producto lleva su foto real y su precio en soles.",
-    "precio": 20,
-    "imagen": "productos/producto-4.svg"
+    "nombre": "Adoquin de fresa con leche",
+    "descripcion": "Suave y cremoso helado artesanal que combina fresas frescas licuadas con leche.",
+    "precio": 2.5,
+    "imagen": "productos/producto4.jpeg"
+  },
+  {
+    "nombre": "Adoquin de lúcuma",
+    "descripcion": "Sabor peruano clásico, preparado con pulpa pura de lúcuma y leche cremosa.",
+    "precio": 2.5,
+    "imagen": "productos/producto5.jpeg"
+  },
+  {
+    "nombre": "Adoquin de mango",
+    "descripcion": "Dulce y aromático, elaborado con mango maduro seleccionado para refrescar tu día.",
+    "precio": 2.5,
+    "imagen": "productos/producto6.jpeg"
+  },
+  {
+    "nombre": "Adoquin de piña",
+    "descripcion": "Súper ligero y refrescante, preparado con jugo natural de piña fresca.",
+    "precio": 2.5,
+    "imagen": "productos/producto7.jpeg"
   }
 ]

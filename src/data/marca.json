@@ -1,9 +1,9 @@
 {
-  "nombre": "Mi Emprendimiento",
-  "eslogan": "Escribe aquí tu eslogan",
-  "logo": "logo.svg",
+  "nombre": "",
+  "eslogan": "El sabor natural de la fruta hecho adoquín",
+  "logo": "logo.png",
   "colores": {
-    "principal": "#1F6F5B",
+    "principal": "#BA1650",
     "secundario": "#F4B942",
     "fondo": "#F6F8F7",
     "texto": "#1B2430"
@@ -15,25 +15,25 @@
   "esquinas": "suaves",
   "portada": {
     "badge": "⭐ 100% Pura Fruta Natural",
-    "titulo": "Marcianos de pura fruta",
-    "subtitulo": "Refrescantes, deliciosos y preparados artesanalmente con fruta fresca seleccionada.",
-    "productoDestacado": "Marciano de Fresa",
-    "imagen": "productos/producto-1.svg",
+    "titulo": "Adoquines de pura fruta",
+    "subtitulo": "Cremosos, refrescantes y preparados artesanalmente con pulpa de fruta seleccionada.",
+    "productoDestacado": "Adoquin de Fresa",
+    "imagen": "productos/producto1.jpeg",
     "textoBoton": "Ver productos",
     "textoBotonSecundario": "Pedir por WhatsApp"
   },
   "nosotros": {
     "titulo": "Quiénes somos",
-    "texto": "Somos estudiantes de secundaria y creamos este emprendimiento durante el curso de Educación para el Trabajo. Aquí cuentas cómo nació tu idea y qué problema resuelve.",
+    "texto": "Somos estudiantes de secundaria y creamos ADOQUIFRUT durante el curso de Educación para el Trabajo. Nacimos con la idea de ofrecer una alternativa saludable, natural y refrescante frente a los helados industriales, aprovechando lo mejor de nuestras frutas.",
     "puntos": [
-      "Productos hechos con cuidado",
-      "Precios justos",
-      "Atención directa por WhatsApp"
+      "Elaborados con fruta natural seleccionada",
+      "Sabor casero a precios justos",
+      "Pedidos rápidos y atención directa por WhatsApp"
     ]
   },
   "contacto": {
-    "whatsapp": "51980528386",
-    "mensaje": "Hola, quiero más información sobre sus productos",
+    "whatsapp": "51924209271",
+    "mensaje": "Hola ADOQUIFRUT, quiero hacer un pedido de adoquines",
     "horario": "Lunes a viernes, de 3:00 p. m. a 6:00 p. m.",
     "instagram": "",
     "facebook": ""
